@@ -1,13 +1,14 @@
 {
-  "name": "starter-micro-api",
-  "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-  }
+    "name": "ds-api",
+    "version": "1.0.0",
+    "description": "Simple dlsite api proxy",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node index.js"
+    },
+    "author": "lzw-723",
+    "license": "ISC",
+    "dependencies": {}
 }
